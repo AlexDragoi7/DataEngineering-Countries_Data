@@ -11,7 +11,6 @@ The dataset contains:
 
 *Data was extracted and transformed accordingly - e.g. Population / land area data was cleared of commas or dashes, while being correctly formatted (float, int).
 
-**The entire Jupyter notebook is available as a html file in the project files.
 
 Technologies used:
 - Jupyter Notebook
