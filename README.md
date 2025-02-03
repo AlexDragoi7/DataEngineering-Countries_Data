@@ -11,12 +11,10 @@ The dataset contains:
 
 *Data was extracted and transformed accordingly - e.g. Population / land area data was cleared of commas or dashes, while being correctly formatted (float, int).
 
-
 Technologies used:
 - Jupyter Notebook
 - Python 
 - PostgreSQL + SQL (to be added)
-- SQLAlchemy (engine)
-- Seaborn / Matplotlib - data visualizations (to be added)
-- Cronjob (if necessary)
-
+- Ubuntu 22.04
+- Seaborn / Matplotlib data visualizations
+- Cronjob *to be added*
